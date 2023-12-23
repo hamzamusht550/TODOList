@@ -157,6 +157,7 @@ ul li {
 	}
 	ul {
 		overflow-y: auto;
+		overflow-x: hidden;
         height: 69vh;
         margin: 0;
 		margin-right: 1vw;
